@@ -1,5 +1,5 @@
 # Welcome to the Hardest One-Mode Levels List!
-This is a list for levels that use yet one mode!
+This is a list for levels that use only one mode!
 
 # FAQ
 Does this list include ALL one-mode levels?
