@@ -8,5 +8,29 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "ChefGD",
+            "link": "None",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "ItsRhino",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "NinjaLuke2010",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ex66",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
