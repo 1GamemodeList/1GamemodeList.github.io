@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Unknown",
     "records": [
+        {
+            "user": "ChefGD",
+            "link": "None",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
