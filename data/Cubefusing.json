@@ -31,6 +31,12 @@
             "link": "None",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Hydrate",
+            "link": "None",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
