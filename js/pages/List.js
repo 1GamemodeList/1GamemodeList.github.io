@@ -100,7 +100,22 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Join the discord server for guidelines.
+                        To submit an record, you need an completion with clicks. You may use a mod that makes click sounds, however we would greatly appreciate if you have your mic on.
+                    </p>
+                    <p>
+                        If you use a mod menu, make sure to use cheat indicator.
+                    </p>
+                    <p>
+                        If you don't use cheat indicator, show your hack menu at the end of the completion to show you're not hacking.
+                    </p>
+                    <p>
+                        You can not have any cuts in your completion video. (You can have cuts before the actual completion)
+                    </p>
+                    <p>
+                        If you wish to submit a level of your own, make sure it only uses one gamemode, and if it has another gamemode, no clicks are allowed in that gamemode.
+                    </p>
+                    <p>
+                        Join the discord server to submit levels and completions.
                     </p>
                 </div>
             </div>
