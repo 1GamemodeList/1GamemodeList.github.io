@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "ChefGD",
+            "link": "https://youtu.be/rvPNpjzpjlQ",
+            "percent": 100,
+            "hz": 180
+        }
     ]
 }
