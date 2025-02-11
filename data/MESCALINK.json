@@ -43,6 +43,12 @@
             "link": "None",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "galaxyprimetime",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
