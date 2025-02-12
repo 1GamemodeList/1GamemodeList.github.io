@@ -25,7 +25,12 @@
             "link": "None",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "LeeoxGD",
+            "link": "https://www.youtube.com/watch?v=B8WaNO3lqRg",
+            "percent": 100,
+            "hz": 60
         }
-        
     ]
 }
