@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "LeeoxGD",
+            "link": "https://www.youtube.com/watch?v=2YkJV0kgjQE",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
