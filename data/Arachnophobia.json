@@ -13,6 +13,12 @@
             "link": "https://www.youtube.com/watch?v=FCxNUwg1Pgw",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "supzix",
+            "link": "https://www.youtube.com/watch?v=R7F0xTQlWN8",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
