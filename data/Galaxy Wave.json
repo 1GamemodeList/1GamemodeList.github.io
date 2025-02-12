@@ -19,6 +19,12 @@
             "link": "https://www.youtube.com/watch?v=PmdUqbCPV5A",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "LeeoxGD",
+            "link": "https://www.youtube.com/watch?v=VUehEVZJn4A",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
