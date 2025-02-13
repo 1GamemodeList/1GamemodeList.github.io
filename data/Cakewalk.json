@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=o8ucYbrpTC0",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Hydrate",
+            "link": "https://www.youtube.com/watch?v=0Uke_i4T2V0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
