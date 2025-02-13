@@ -13,6 +13,12 @@
             "link": "None",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Storm",
+            "link": "https://www.youtube.com/watch?v=rkQ4zqIMLFE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
