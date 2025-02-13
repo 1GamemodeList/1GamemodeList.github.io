@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=gLTA6TIBT58",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "TPingi",
+            "link": "https://youtu.be/poNFizinz14",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
