@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=hRZS2x5ypoM",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "EthanDemon",
+            "link": "https://www.youtube.com/watch?v=8AnQHS__7YI",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
