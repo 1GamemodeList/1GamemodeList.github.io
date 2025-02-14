@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=7EUELPAbmO4",
             "percent": 100,
             "hz": 240
+        }, 
+        {
+            "user": "SpaceID",
+            "link": "https://youtu.be/RWCY3x5cvFo?si=LXsyjO-20wAbtUdF"
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
