@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Storm",
+            "link": "https://www.youtube.com/watch?v=JTrsVH7v1-c",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
