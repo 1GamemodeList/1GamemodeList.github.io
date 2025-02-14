@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/pN3GKd4nFe0",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [
+    "records": [ 
+        {
+            "user": "LeeoxGD",
+            "link": "https://youtu.be/rLS0uT6Cae8",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
