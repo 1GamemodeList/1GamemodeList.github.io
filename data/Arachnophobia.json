@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=S9x15lvXNHg",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "tabby",
+            "link": "https://www.youtube.com/watch?v=YHGvfUM3HGw",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
