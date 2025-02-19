@@ -49,6 +49,12 @@
             "link": "https://www.youtube.com/watch?v=YHGvfUM3HGw",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "Validash",
+            "link": "https://www.youtube.com/watch?v=YJj08m14Bi0",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
