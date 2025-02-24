@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=YJj08m14Bi0",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "Mex",
+            "link": "https://www.youtube.com/watch?v=0Uel1_XJ2g0",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
