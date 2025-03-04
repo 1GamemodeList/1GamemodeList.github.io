@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=oYPYFTy3b_0",
             "percent": 100,
             "hz": 240
+        },
+                {
+            "user": "Circley",
+            "link": "https://youtu.be/CYoU-_2mFM8?si=dcoYh5ZHmMgSqfz8",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
