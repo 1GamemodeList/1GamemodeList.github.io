@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "Circley",
+            "link": "https://youtu.be/jAtqJVEsQqw?si=dLpn_KPbvwaTssLf",
+            "percent": 100,
+            "hz": 60
+        },
     ]
 }
