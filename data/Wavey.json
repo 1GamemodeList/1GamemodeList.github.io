@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=nRLosDBG-CM",
             "percent": 100,
             "hz": 240
+        },
+          {
+            "user": "ex66",
+            "link": "https://www.youtube.com/watch?v=sio1-aMQEDE",
+            "percent": 100,
+            "hz": 120
         }
     ]
 }
