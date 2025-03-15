@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "kicktex",
+            "link": "https://www.youtube.com/watch?v=uQ5bxDfVJWc",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
