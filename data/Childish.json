@@ -1,0 +1,30 @@
+{
+    "id": 116124262,
+    "name": "Childish",
+    "author": "Validash",
+    "creators": ["Validash"],
+    "verifier": "Validash",
+    "verification": "https://www.youtube.com/watch?v=YJHalMlDszg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "LeeoxGD",
+            "link": "https://www.youtube.com/watch?v=tt-fipwNwYA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=avOysHY-NlY",
+            "percent": 100,
+            "hz": 240
+        },
+          {
+            "user": "tabby",
+            "link": "https://www.youtube.com/watch?v=gvNV3kA_1Jc",
+            "percent": 100,
+            "hz": 120
+        }
+    ]
+}
