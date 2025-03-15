@@ -9,16 +9,16 @@
     "password": "Free To Copy",
     "records": [
         {
-            "user": "LeeoxGD",
-            "link": "https://www.youtube.com/watch?v=tt-fipwNwYA",
-            "percent": 100,
-            "hz": 60
-        },
-        {
             "user": "DALUCKYCARPET0",
             "link": "https://www.youtube.com/watch?v=avOysHY-NlY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "LeeoxGD",
+            "link": "https://www.youtube.com/watch?v=tt-fipwNwYA",
+            "percent": 100,
+            "hz": 60
         },
           {
             "user": "tabby",
