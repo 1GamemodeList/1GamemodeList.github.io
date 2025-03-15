@@ -13,6 +13,18 @@
             "link": "https://www.youtube.com/watch?v=dHYtPNORajY",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "tabby",
+            "link": "https://www.youtube.com/watch?v=csttbscYtMo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "verseorfluuf",
+            "link": "https://www.youtube.com/watch?v=N-hzLAy9gw0",
+            "percent": 100,
+            "hz": 100
         }
     ]
 }
