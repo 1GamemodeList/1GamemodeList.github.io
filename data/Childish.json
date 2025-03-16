@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=gvNV3kA_1Jc",
             "percent": 100,
             "hz": 120
+        },
+        {
+            "user": "kicktex",
+            "link": "https://www.youtube.com/watch?v=mjftisSVmB4",
+            "percent": 100,
+            "hz": 150
         }
     ]
 }
