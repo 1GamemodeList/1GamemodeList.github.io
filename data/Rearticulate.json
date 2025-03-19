@@ -13,12 +13,18 @@
             "link": "https://youtu.be/I6P-q7wbOyY",
             "percent": 100,
             "hz": 240
-    },
-{
+        },
+        {
             "user": "DALUCKYCARPET0",
             "link": "https://youtu.be/W0jSGjOWX6w",
             "percent": 100,
             "hz": 240
-    }
+        },
+        {
+            "user": "kicktex",
+            "link": "https://www.youtube.com/watch?v=3zldEJCAwwQ",
+            "percent": 100,
+            "hz": 240
+        },
     ]
 }
