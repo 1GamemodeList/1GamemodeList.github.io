@@ -8,5 +8,17 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=1mstyv1qR-o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kicktex",
+            "link": "https://www.youtube.com/watch?v=isfa26PDZU8",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
