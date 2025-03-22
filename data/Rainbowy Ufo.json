@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=iD9rTC-y_Es",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=ry64G0va3kE",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
