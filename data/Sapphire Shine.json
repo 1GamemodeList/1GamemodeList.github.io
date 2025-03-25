@@ -31,6 +31,12 @@
             "link": "https://www.youtube.com/watch?v=xK1PEqDxQbc",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ThorDasher",
+            "link": "https://youtu.be/uk-m2D1IkgU",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
