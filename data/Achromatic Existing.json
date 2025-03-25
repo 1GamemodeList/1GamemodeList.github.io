@@ -18,6 +18,12 @@
             "user": "kicktex",
             "link": "https://www.youtube.com/watch?v=_I2FCMGxaqU",
             "percent": 100,
+            "hz": 150
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=RofhrOb__WM",
+            "percent": 100,
             "hz": 240
         }
     ]
