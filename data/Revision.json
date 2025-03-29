@@ -1,6 +1,6 @@
 {
     "id": 116659701,
-    "name": "Denouement",
+    "name": "Revision",
     "author": "CuteAxi",
     "creators": [],
     "verifier": "CuteAxi",
@@ -11,6 +11,12 @@
         {
             "user": "DALUCKYCARPET0",
             "link": "https://www.youtube.com/watch?v=qyu38F1wVpo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby",
+            "link": "https://www.youtube.com/watch?v=_fBOLW9aGig",
             "percent": 100,
             "hz": 240
         }
