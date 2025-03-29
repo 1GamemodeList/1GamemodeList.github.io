@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+        "user": "ThorDasher",
+        "link": "https://youtu.be/P9IEIXk8T3M",
+        "percent": 100,
+        "hz": 144
+        }
     ]
 }
