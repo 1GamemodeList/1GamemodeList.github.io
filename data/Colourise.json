@@ -27,14 +27,20 @@
         "hz": 144
         },
         {
-        "user": "CuteAxi",
-        "link": "https://www.youtube.com/watch?v=lljzVFb3XbY",
-        "percent": 100,
-        "hz": 240
+            "user": "CuteAxi",
+            "link": "https://www.youtube.com/watch?v=lljzVFb3XbY",
+            "percent": 100,
+            "hz": 240
         },
         {
             "user": "DALUCKYCARPET0",
             "link": "https://www.youtube.com/watch?v=KC4tTWAtLCE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=SJj2TRqI1Ec",
             "percent": 100,
             "hz": 240
         }
