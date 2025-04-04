@@ -3,16 +3,10 @@
     "name": "Real Strayt Fli",
     "author": "kron",
     "creators": ["kron"],
-    "verifier": "kron",
-    "verification": "https://www.youtube.com/watch?v=rD2qHOj5LNw",
+    "verifier": "BlueGamer",
+    "verification": "https://www.youtube.com/watch?v=d-eUs2xfX84",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "BlueGamer",
-            "link": "https://www.youtube.com/watch?v=d-eUs2xfX84",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
