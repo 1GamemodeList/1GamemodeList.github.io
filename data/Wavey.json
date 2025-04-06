@@ -79,6 +79,12 @@
             "link": "https://www.youtube.com/watch?v=Xjg-79JWMPs",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "Bubriz",
+            "link": "https://youtu.be/TgDU_ni6hok",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
