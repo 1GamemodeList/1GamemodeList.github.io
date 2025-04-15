@@ -4,45 +4,9 @@
     "author": "Validash",
     "creators": ["Validash"],
     "verifier": "Validash",
-    "verification": "https://www.youtube.com/watch?v=2SdbVG6xid8",
+    "verification": "https://youtu.be/szKqpSIbII0",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-        {
-            "user": "LeeoxGD",
-            "link": "https://www.youtube.com/watch?v=x504UaW8mNE",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "Mex",
-            "link": "https://youtu.be/YqFlvi8Z-wM",
-            "percent": 100,
-            "hz": 240
-        },   
-        {
-            "user": "DALUCKYCARPET0",
-            "link": "https://youtu.be/8LMFThYB5JU",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "WatermelonSD",
-            "link": "https://www.youtube.com/watch?v=jp9HvnWJ91o",
-            "percent": 100,
-            "hz": 60
-        },
-        {
-            "user": "tabby (you will be missed)",
-            "link": "https://www.youtube.com/watch?v=OzJjybD0Dfw",
-            "percent": 100,
-            "hz": 240
-        },
-        {
-            "user": "BlueGamer",
-            "link": "https://www.youtube.com/watch?v=Jk9ujkX3_bk",
-            "percent": 100,
-            "hz": 240
-        }
     ]
 }
