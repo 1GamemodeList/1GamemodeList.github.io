@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Tabby (you will be missed)",
+            "link": "https://youtu.be/-4AxdMrqwgw",
+            "percent": 100,
+            "hz": 240
+         }
     ]
 }
