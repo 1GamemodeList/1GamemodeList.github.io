@@ -55,6 +55,12 @@
             "link": "https://www.youtube.com/watch?v=LuQfeC4fvgs",
             "percent": 100,
             "hz": 240
+          },
+          {
+            "user": "Lucy (tabbys blahaj)",
+            "link": "https://youtu.be/pO0DtoISwV4"
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
