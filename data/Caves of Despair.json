@@ -8,5 +8,11 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "BlueGamer",
+            "link": "https://youtu.be/0nTXfuY8Q8c",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
