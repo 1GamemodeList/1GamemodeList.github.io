@@ -25,6 +25,12 @@
             "link": "https://www.youtube.com/watch?v=skXaO5ArbHM",
             "percent": 90,
             "hz": 240
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=25ksoAhtzLY",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
