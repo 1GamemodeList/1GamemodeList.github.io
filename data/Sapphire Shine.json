@@ -4,10 +4,16 @@
     "author": "supzixLEGAL",
     "creators": ["swedishkid99"],
     "verifier": "supzixLEGAL",
-    "verification": "https://www.youtube.com/watch?v=i40JSxVw4J0&t=1s",
+    "verification": "https://youtu.be/i40JSxVw4J0",
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+        {
+            "user": "ItsRhino",
+            "link": "https://www.youtube.com/watch?v=i40JSxVw4J0&t=1s",
+            "percent": 100
+            "hz": 240
+        },
         {
             "user": "Storm",
             "link": "https://www.youtube.com/watch?v=rkQ4zqIMLFE",
