@@ -37,6 +37,12 @@
             "link": "https://www.youtube.com/watch?v=WObLh0IYjNI",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=KFXsqANe44U&t=925s",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
