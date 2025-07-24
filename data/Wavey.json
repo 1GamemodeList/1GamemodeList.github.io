@@ -73,10 +73,16 @@
             "link": "https://youtu.be/pO0DtoISwV4",
             "percent": 100,
             "hz": 120
-                    },
+        },
         {
             "user": "ggdotlol",
             "link": "https://www.youtube.com/watch?v=vdgJDKb2rKM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CoudeDroit",
+            "link": "https://www.youtube.com/watch?v=V3omreQOqrI",
             "percent": 100,
             "hz": 240
         }
