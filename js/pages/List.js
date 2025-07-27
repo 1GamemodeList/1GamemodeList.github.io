@@ -100,6 +100,18 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
+                        The level must only use one gamemode for clicks, however any form of effect that doesnt require a click in another gamemode is allowed.
+                    </p>
+                    <p>
+                        Both the creator (all in the case of collabs) and verifier must be on the server for a week before it is completed. 
+                    </p>
+                    <p>
+                        Your level must not use assets made by other players.
+                    </p>
+                    <p>
+                        The creator should preferably involve themselves more than once in the server and inactivity will inevitably lead to the removal of the creators levels.
+                    <h3>Completion Requirements</h3>
+                    <p>
                         To submit an record, you need an completion with clicks. You may use a mod that makes click sounds, however we would greatly appreciate if you have your mic on.
                     </p>
                     <p>
