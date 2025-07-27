@@ -110,6 +110,7 @@ export default {
                     </p>
                     <p>
                         The creator should preferably involve themselves more than once in the server and inactivity will inevitably lead to the removal of the creators levels.
+                    <p>    
                     <h3>Completion Requirements</h3>
                     <p>
                         To submit an record, you need an completion with clicks. You may use a mod that makes click sounds, however we would greatly appreciate if you have your mic on.
