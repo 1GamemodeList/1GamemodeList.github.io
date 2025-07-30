@@ -29,7 +29,7 @@ export function score(rank, percent, minPercent, hz = "") {
     // If hz is "cbf", increase decay rate and reduce base score offset
     let decayRate = 0.03;
     let offset = 200;
-    if (hz === "cbf") {
+    if (hz === "cbf" || "(cbf)" {
         decayRate = 0.2;
         offset = 180;
     }
