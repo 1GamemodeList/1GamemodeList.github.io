@@ -8,9 +8,10 @@ const scale = 3;
  * @param {Number} rank Position on the list
  * @param {Number} percent Percentage of completion
  * @param {Number} minPercent Minimum percentage required
+ * @param {String} hz Optional: Completion hertz, e.g. "cbf"
  * @returns {Number}
  */
-export function score(rank, percent, minPercent) {
+export function score(rank, percent, minPercent, hz = "") {
     if (rank > 150) {
         return 0;
     }
@@ -23,8 +24,17 @@ export function score(rank, percent, minPercent) {
     let score = (100 / Math.sqrt((rank - 1) / 50 + 0.444444) - 50) *
         ((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
     */
-    // New formula
-    let score = round(-25*Math.pow(rank-1, 0.4) + 200) *
+
+    // New formula (updated with exponential decay and cbf check)
+    // If hz is "cbf", increase decay rate and reduce base score offset
+    let decayRate = 0.1;
+    let offset = 200;
+    if (hz === "cbf") {
+        decayRate = 0.15;
+        offset = 180;
+    }
+
+    let score = round(offset * Math.exp(-decayRate * (rank - 1))) *
         round((percent - (minPercent - 1)) / (100 - (minPercent - 1)));
 
     score = Math.max(0, score);
@@ -36,6 +46,12 @@ export function score(rank, percent, minPercent) {
     return Math.max(round(score), 0);
 }
 
+/**
+ * Rounds a number to the specified number of decimal digits
+ * Handles scientific notation as well
+ * @param {Number} num
+ * @returns {Number}
+ */
 export function round(num) {
     if (!('' + num).includes('e')) {
         return +(Math.round(num + 'e+' + scale) + 'e-' + scale);
