@@ -28,10 +28,10 @@ export function score(rank, percent, minPercent, hz = "") {
     // New formula (updated with exponential decay and cbf check)
     // If hz is "cbf", increase decay rate and reduce base score offset
     let decayRate = 0.015;
-    let offset = 300;
+    let offset = 240;
     if (hz === "cbf" || hz === "(cbf)") {
         decayRate = 0.1;
-        offset = 280;
+        offset = 200;
     }
 
     let score = round(offset * Math.exp(-decayRate * (rank - 1))) *
