@@ -7,6 +7,12 @@
     "verification": "https://youtu.be/XhEYXcYNp9E",
     "percentToQualify": "100",
     "password": "Free To Copy",
-    "records": [
+    "records": [ 
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://youtu.be/KBltNG6ThPk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
