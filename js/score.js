@@ -30,8 +30,8 @@ export function score(rank, percent, minPercent, hz = "") {
     let decayRate = 0.015;
     let offset = 200;
     if (hz === "CBF" || hz === "(CBF)") {
-        decayRate = 1;
-        offset = 180;
+        decayRate = 100;
+        offset = 100;
     }
 
     let score = round(offset * Math.exp(-decayRate * (rank - 1))) *
