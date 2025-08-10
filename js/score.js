@@ -30,7 +30,7 @@ export function score(rank, percent, minPercent, hz = "") {
     let decayRate = 0.015;
     let offset = 200;
     if (hz === "cbf" || hz === "(cbf)") {
-        decayRate = 0.1;
+        decayRate = 1;
         offset = 190;
     }
 
