@@ -1,0 +1,24 @@
+{
+    "id": 116743863,
+    "name": "Caves of Despair",
+    "author": "Puzzler3015GD",
+    "creators": ["Puzzler3015GD"],
+    "verifier": "skarro",
+    "verification": "https://youtu.be/SGXIOKDQg9A",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BlueGamer",
+            "link": "https://youtu.be/0nTXfuY8Q8c",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=iu0su3RWeqE",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

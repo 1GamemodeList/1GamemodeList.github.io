@@ -1,0 +1,18 @@
+{
+    "id": 116007790,
+    "name": "Quartz",
+    "author": "DarkTerminology",
+    "creators": [],
+    "verifier": "DALUCKYCARPET0",
+    "verification": "https://www.youtube.com/watch?v=AevM4dQNjWQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=gpRVfLjCbWw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "id": 115837622,
+    "name": "only ship level",
+    "author": "SpaceID",
+    "creators": [],
+    "verifier": "SpaceID",
+    "verification": "https://www.youtube.com/watch?v=3eB83Q-IqjY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=gsUq2Hj7WuI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=MMXKKXMPGsM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://www.youtube.com/watch?v=zU6diovOjJ8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=KFXsqANe44U&t=925s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=UIShmzrMdW0",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

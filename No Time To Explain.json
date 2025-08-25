@@ -1,0 +1,48 @@
+{
+    "id": 115289376,
+    "name": "No Time To Explain",
+    "author": "Validash",
+    "creators": ["Validash"],
+    "verifier": "Validash",
+    "verification": "https://youtu.be/szKqpSIbII0",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+         {
+            "user": "tabby (you will be missed)",
+            "link": "https://youtu.be/GRF4aWTiN2o",
+            "percent": 100,
+            "hz": 240
+         },
+         {
+            "user": "Lucy (tabbys blahaj)",
+            "link": "https://youtu.be/WpOxsNtGuNM",
+            "percent": 100,
+            "hz": 60
+         },
+         {
+            "user": "DALUCKYCARPET0",
+            "link": "https://youtu.be/GD6mONYM1is",
+            "percent": 100,
+            "hz": 240
+         },
+         {
+            "user": "BlueGamer",
+            "link": "https://youtu.be/1Okj44cNJF8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=_lEKgDHM0_E&t=2s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=UIShmzrMdW0",
+            "percent": 100,
+            "hz": "CBF"
+         }
+    ]
+}

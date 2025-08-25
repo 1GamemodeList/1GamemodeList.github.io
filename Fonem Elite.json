@@ -1,0 +1,24 @@
+{
+    "id": 116250577,
+    "name": "Fonem Elite",
+    "author": "Storm",
+    "creators": [],
+    "verifier": "Storm",
+    "verification": "https://www.youtube.com/watch?v=8fPldDQJZTw",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=n-9E59duZ6g",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=d3SA3jLWW8I",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

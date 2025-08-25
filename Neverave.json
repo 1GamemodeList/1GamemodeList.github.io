@@ -1,0 +1,24 @@
+{
+    "id": 106838105,
+    "name": "Neverave",
+    "author": "supzix",
+    "creators": ["supzix"],
+    "verifier": "supzix",
+    "verification": "https://www.youtube.com/watch?v=EQui3EBoWhg",
+    "percentToQualify": "70",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=vBqQsVRaVVo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=vf_LtWE5wcc",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

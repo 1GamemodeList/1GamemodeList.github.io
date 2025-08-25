@@ -1,0 +1,24 @@
+{
+    "id": 123749319,
+    "name": "Happy Bday tabby x3",
+    "author": "CuteAxi",
+    "creators": ["CuteAxi"],
+    "verifier": "tabby (you will be missed)",
+    "verification": "https://www.youtube.com/watch?v=w8FBC-Sxbj0",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    {
+            "user": "CuteAxi",
+            "link": "https://www.youtube.com/watch?v=Qnz3dh2vzXI",
+            "percent": 100,
+            "hz": "120"
+    },
+ {
+            "user": "DALUCKYCARPET0",
+            "link": "https://youtu.be/MzeXvoxy_Qg?si=BaheUFmGa5iTPtAv",
+            "percent": 100,
+            "hz": "240"
+    }
+  ]
+}

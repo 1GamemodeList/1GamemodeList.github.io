@@ -1,0 +1,36 @@
+{
+    "id": 120473494,
+    "name": "depressive",
+    "author": "CuteAxi",
+    "creators": ["Cuteaxi"],
+    "verifier": "CuteAxi",
+    "verification": "https://youtu.be/C4T1Lmh6Dx0?si=F2x_pQAI5X1wk1Nx",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://youtu.be/sLEr1UYzbwg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=dinC61ZP1jo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=NrS1X-b2MsQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=UIShmzrMdW0",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+}

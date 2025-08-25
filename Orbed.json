@@ -1,0 +1,78 @@
+{
+    "id": 115083086,
+    "name": "Orbed",
+    "author": "CuteAxi",
+    "creators": ["CuteAxi"],
+    "verifier": "CuteAxi",
+    "verification": "https://www.youtube.com/watch?v=JIskxfrYRvk",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Storm",
+            "link": "https://www.youtube.com/watch?v=sLLpBDr1f6M",
+            "percent": 100,
+            "hz": 240
+        }, 
+        {
+            "user": "ThorDasher",
+            "link": "https://youtu.be/PYFqdoY8zVY?si=sv2qNqmM2w3f5IVQ",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "EthanDemon",
+            "link": "https://www.youtube.com/watch?v=xF2tgwR96DY",
+            "percent": 100,
+            "hz": 60
+        },  
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://youtu.be/niIXF-OjcWA",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Mex",
+            "link": "https://www.youtube.com/watch?v=M9WuXE2sdYk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=Xjg-79JWMPs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=tqM9FTvbZkI",
+            "percent": 100,
+            "hz": 240
+        },    
+        {
+            "user": "Lucy (tabbys blahaj)",
+            "link": "https://youtu.be/pO0DtoISwV4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=vdgJDKb2rKM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CoudeDroit",
+            "link": "https://www.youtube.com/watch?v=bcncj2OtB90",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=KFXsqANe44U&t=925s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
