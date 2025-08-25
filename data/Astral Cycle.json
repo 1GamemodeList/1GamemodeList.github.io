@@ -1,0 +1,36 @@
+{
+    "id": 118715505,
+    "name": "Astral Cycle",
+    "author": "Validash",
+    "creators": [],
+    "verifier": "Validash",
+    "verification": "https://youtu.be/7MVHYj60pDQ",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    {
+            "user": "DALUCKYCARPET0",
+            "link": "https://youtu.be/nIGlpndNS4c",
+            "percent": 100,
+            "hz": 240
+          },
+          {
+            "user": "tabby (you will be missed)",
+            "link": "https://www.youtube.com/watch?v=pq0fQS2Y34w",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=KFXsqANe44U&t=925s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=UIShmzrMdW0",
+            "percent": 100,
+            "hz": "CBF"
+         }
+    ]
+}

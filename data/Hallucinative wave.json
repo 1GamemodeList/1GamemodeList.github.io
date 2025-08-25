@@ -1,0 +1,48 @@
+{
+    "id": 115084639,
+    "name": "Hallucinative wave",
+    "author": "EthanDemon",
+    "creators": ["EthanDemon"],
+    "verifier": "EthanDemon",
+    "verification": "https://www.youtube.com/watch?v=n2ZZHaELgfU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Storm",
+            "link": "https://www.youtube.com/watch?v=dCYT6oa2nnQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=eGf95IHjW2I",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://www.youtube.com/watch?v=XeUAPn0HC_Q",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=lt0EJIXagYA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=vdgJDKb2rKM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=_lEKgDHM0_E&t=2s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

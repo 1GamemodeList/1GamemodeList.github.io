@@ -1,0 +1,24 @@
+{
+    "id": 116622611,
+    "name": "Static",
+    "author": "Validash",
+    "creators": [],
+    "verifier": "DALUCKYCARPET0",
+    "verification": "https://www.youtube.com/watch?v=GjZy0YSrDpY",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=sZmqSNbEWvE",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://youtu.be/4iMDBc48bLw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

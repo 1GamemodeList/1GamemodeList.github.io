@@ -1,0 +1,30 @@
+{
+    "id": 115730256 ,
+    "name": "Shipotopus",
+    "author": "ThorDasher",
+    "creators": ["ThorDasher"],
+    "verifier": "LeeoxGD",
+    "verification": "https://youtu.be/Oc0t_ntqyEU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=VMO5fEw8vZQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=kP6SOHvkEK4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://youtu.be/RP2AWN0FRnk",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

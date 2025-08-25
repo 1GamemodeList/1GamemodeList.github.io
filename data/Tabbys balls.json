@@ -1,0 +1,42 @@
+{
+    "id": 116247631,
+    "name": "tabby's balls",
+    "author": "LeeoxGD",
+    "creators": [],
+    "verifier": "LeeoxGD",
+    "verification": "https://www.youtube.com/watch?v=foGsj3oiQAo",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=1mstyv1qR-o",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "kicktex",
+            "link": "https://www.youtube.com/watch?v=isfa26PDZU8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://www.youtube.com/watch?v=QjsBxsBAfTo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=c3Dhb6asUGg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=petWEpks_Uw",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

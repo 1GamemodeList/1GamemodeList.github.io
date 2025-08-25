@@ -1,0 +1,24 @@
+{
+    "id": 116742633,
+    "name": "sunburn",
+    "author": "skarro",
+    "creators": ["skarro"],
+    "verifier": "skarro",
+    "verification": "https://www.youtube.com/watch?v=neuBz-320l0",
+    "percentToQualify": "76",
+    "password": "Free To Copy",
+    "records": [
+{
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=zcy69SAia4Q",
+            "percent": 100,
+            "hz": 240
+        }, 
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://youtu.be/Y7mjPWB4JBE",
+            "percent": 100,
+            "hz": 240
+         }
+    ]
+}

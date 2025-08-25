@@ -1,0 +1,30 @@
+{
+    "id": 116900616,
+    "name": "strtifhgh flyir",
+    "author": "SpaceID",
+    "creators": ["SpaceID"],
+    "verifier": "SpaceID",
+    "verification": "https://youtu.be/q7j43uPLktc?si=_PYkcQvAzWccj4E8",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+    {
+            "user": "DALUCKYCARPET0",
+            "link": "https://youtu.be/gbR2dq3XwPM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://youtu.be/AbCRnv8ss08",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://youtu.be/Norn1W1KVvg",
+            "percent": 100,
+            "hz": 240
+         }
+    ]
+}

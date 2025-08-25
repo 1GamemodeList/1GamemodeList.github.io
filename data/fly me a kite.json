@@ -1,0 +1,18 @@
+{
+    "id": 117385653,
+    "name": "fly me a kite",
+    "author": "Ex66",
+    "creators": ["Ex66"],
+    "verifier": "BlueGamer",
+    "verification": "https://www.youtube.com/watch?v=UeNnmFbGtTU",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://youtu.be/GT6KR7qzxHA",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

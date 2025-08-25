@@ -1,0 +1,48 @@
+{
+    "id": 115016010,
+    "name": "Ship challenge",
+    "author": "ChefGD",
+    "creators": ["ChefGD"],
+    "verifier": "ChefGD",
+    "verification": "https://www.youtube.com/watch?v=KE-EYwa8CCM",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Storm",
+            "link": "https://www.youtube.com/watch?v=rPz8qsciKZQ",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=gV50XmrwIiU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=tDrGqX-kdMw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=petWEpks_Uw",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://www.youtube.com/watch?v=WObLh0IYjNI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=KFXsqANe44U&t=925s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

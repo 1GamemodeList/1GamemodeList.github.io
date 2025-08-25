@@ -1,0 +1,30 @@
+{
+    "id": 115432415 ,
+    "name": "Blackscapes",
+    "author": "ThorDasher",
+    "creators": ["ThorDasher"],
+    "verifier": "ThorDasher",
+    "verification": "https://youtu.be/LD58S4MQsps",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=Hk0yt-YC9P4",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=qdR425cKbW0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=LqvqZ_Zn6w0",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

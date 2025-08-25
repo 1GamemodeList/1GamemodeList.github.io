@@ -1,0 +1,24 @@
+{
+    "id": 116348424 ,
+    "name": "Tabby always Cleared",
+    "author": "tabby (you will be missed)",
+    "creators": ["tabby (you will be missed)"],
+    "verifier": "BlueGamer",
+    "verification": "https://youtu.be/2ck54twbV5A",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Skarro",
+            "link": "https://youtu.be/M7Ys4aswZyY",
+            "percent": 100,
+            "hz": 240
+        }, 
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://youtu.be/OoIYp9YSgUg",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

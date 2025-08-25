@@ -1,0 +1,72 @@
+{
+    "id": 107937263 ,
+    "name": "Callengus",
+    "author": "Validash",
+    "creators": ["Validash"],
+    "verifier": "Validash",
+    "verification": "https://youtu.be/LC3rcrZnVgA",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "CuteAxi",
+            "link": "https://youtu.be/7U4H6SLx_Iw",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "Mex",
+            "link": "https://www.youtube.com/watch?v=M9WuXE2sdYk",
+            "percent": 100,
+            "hz": 240
+        },
+          {
+            "user": "tabby (you will be missed)",
+            "link": "https://www.youtube.com/watch?v=kDe5A9KQM-s",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=Xjg-79JWMPs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=Wk8ylVE8zCo",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ThorDasher",
+            "link": "https://www.youtube.com/watch?v=LuQfeC4fvgs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Lucy (tabbys blahaj)",
+            "link": "https://youtu.be/pO0DtoISwV4",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=vdgJDKb2rKM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "CoudeDroit",
+            "link": "https://www.youtube.com/watch?v=V3omreQOqrI",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=KFXsqANe44U&t=925s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

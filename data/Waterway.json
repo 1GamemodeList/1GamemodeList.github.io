@@ -1,0 +1,84 @@
+{
+    "id": 115021813,
+    "name": "Waterway",
+    "author": "KitcatGD",
+    "creators": ["KitcatGD"],
+    "verifier": "KitcatGD",
+    "verification": "https://www.youtube.com/watch?v=Z8bOEP2T6Qg",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "ChefGD",
+            "link": "None",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "CuteAxi",
+            "link": "https://www.youtube.com/watch?v=JoMNZkl_34w",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "galaxyprimetime",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "EthanDemon",
+            "link": "None",
+            "percent": 100,
+            "hz": 60
+        },
+        {
+            "user": "Storm",
+            "link": "https://www.youtube.com/watch?v=LihmmcviLls",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://www.youtube.com/watch?v=ObGzus324Co",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Mex",
+            "link": "https://www.youtube.com/watch?v=M9WuXE2sdYk",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://www.youtube.com/watch?v=QUjltZpAycY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=xK1PEqDxQbc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=vdgJDKb2rKM",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Amethyst",
+            "link": "https://www.youtube.com/watch?v=_75rqVMYg8A",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=KFXsqANe44U&t=925s",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}

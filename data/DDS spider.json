@@ -1,0 +1,42 @@
+{
+    "id": 115766467,
+    "name": "DDS spider",
+    "author": "TidalWaveGD",
+    "creators": ["TidalWaveGD"],
+    "verifier": "TidalWaveGD",
+    "verification": "https://youtu.be/PSzhcJOyolc?si=dOFJDKh-C6vOcnsb",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "DALUCKYCARPET0",
+            "link": "https://youtu.be/jCXnXxLWPUs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://youtu.be/HW1k1rkSGrc",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://youtu.be/kpcKN9eV_D8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "bananarabbit",
+            "link": "https://www.youtube.com/watch?v=_lEKgDHM0_E&t=2s",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "ggdotlol",
+            "link": "https://www.youtube.com/watch?v=UIShmzrMdW0",
+            "percent": 100,
+            "hz": "CBF"
+        }
+    ]
+ }

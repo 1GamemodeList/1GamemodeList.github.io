@@ -1,0 +1,42 @@
+{
+    "id": 114985637,
+    "name": "Smol Cube Chal",
+    "author": "supzix",
+    "creators": ["supzix"],
+    "verifier": "supzix",
+    "verification": "https://www.youtube.com/watch?v=-CQeeOrVGTM",
+    "percentToQualify": "100",
+    "password": "Unknown",
+    "records": [
+        {
+            "user": "ChefGD",
+            "link": "None",
+            "percent": 100,
+            "hz": 180
+        },
+        {
+            "user": "Storm",
+            "link": "https://www.youtube.com/watch?v=JLlZRIVn2EY",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "EthanDemon",
+            "link": "https://www.youtube.com/watch?v=8YDCi7JNwSc",
+            "percent": 100,
+            "hz": 60
+        },
+         {
+            "user": "DALUCKYCARPET0",
+            "link": "https://youtu.be/GeJ3FaeK4zs",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "BlueGamer",
+            "link": "https://www.youtube.com/watch?v=otIfctSxQbI",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
