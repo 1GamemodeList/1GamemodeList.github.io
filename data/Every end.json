@@ -1,0 +1,24 @@
+{
+    "id":  ,
+    "name": "Every end",
+    "author": "Mindcap and more",
+    "creators": [""],
+    "verifier": "Hqmy",
+    "verification": "https://www.youtube.com/watch?v=AO--mVVFtKI",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
+    "records": [
+        {
+            "user": "Zoink",
+            "link": "https://youtu.be/ZyRmgwSh5tQ?si=NTld_A_EWpt62dNH",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "tabby (you will be missed)",
+            "link": "https://www.youtube.com/watch?v=XjRQFhFM_DM",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
